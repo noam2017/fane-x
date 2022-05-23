@@ -1,6 +1,4 @@
 .body {
-    margin: 10px;
-    padding: 10px;
     background-color: #383838;
     align-items: center;
     justify-content: center;
@@ -15,6 +13,7 @@
 
 
 .button {
+    display: inline;
     width: 12em;
     top: 10em;
     position: relative;
